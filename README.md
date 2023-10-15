@@ -1,6 +1,8 @@
 # eyepop_hackathon
 ChinCheck - Screen worker posture tracker
+
 Video explanation: https://youtu.be/HzE3Nir0s9g
+
 Code working: https://youtu.be/rQtC0SwlH-c
 
 
