@@ -4,7 +4,8 @@ Video explanation: https://youtu.be/HzE3Nir0s9g
 Code working: https://youtu.be/rQtC0SwlH-c
 
 
-Raison dêtre
+Raison dêtre:
+
 People who work on screens a lot often suffer from bad posture. 
 
 For this dev, that mostly means my chin advances forward way far, and puts a ton of strain on my neck and back muscles. 
