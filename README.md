@@ -19,3 +19,10 @@ The program starts by asking the user to set a good posture by pulling their chi
 
 Then, every 10s it takes an image and compares the eye distance. If the head is advanced 75% or more of the range between the good and bad postures, it plays an audio file notifying the user that their chin is too far forward. 
 
+Limitations:
+
+If there's other people in the frame or an excessively busy background it probably won't work in the current implementation. 
+
+if you change position of the laptop or majorly change your own position, you should restart the code.
+
+This was built with a macbook using the internal camera. No idea how it will work with other rigs
